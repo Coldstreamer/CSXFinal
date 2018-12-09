@@ -1,4 +1,7 @@
-gouliguojiahsengsiyi
-qiyinhuofubiquszhi
-woyigeshanghaishuji
-zenmejiudaolebeijingle
+\begin{abstract}
+Hotelling's $T^2$ Test is a very popular way to test the means for two multivariate hypothesis. 
+We extend the the Hotelling's $T^2$ two sample test to situations where the two distributions have the same form 
+but the normal-distribution assumptions do no hold and the covaraiance matrix of two distributions are not identical, 
+and we obtain the asympototic distributions of adjusted $T^2$ statistics.
+We use simulated data first to examin our theory and we apply our method in the US-2016 election data.
+\end{abstract}
