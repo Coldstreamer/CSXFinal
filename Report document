@@ -1,7 +1,11 @@
 \begin{abstract}
-Hotelling's $T^2$ Test is a very popular way to test the means for two multivariate hypothesis. 
-We extend the the Hotelling's $T^2$ two sample test to situations where the two distributions have the same form 
-but the normal-distribution assumptions do no hold and the covaraiance matrix of two distributions are not identical, 
-and we obtain the asympototic distributions of adjusted $T^2$ statistics.
-We use simulated data first to examin our theory and we apply our method in the US-2016 election data.
+Hotelling's $T^2$ Test is a very popular way to test the means for two multivariate hypothesis. Nel and Van der Merwe Test
+is an extention of two sample Hotelling's test where the covaraiance matrix of two distributions are not necessarily identical.
+However, Nel and Van der Merwe Test still requires that the normal-disribution assumptions still hold. 
+We further extend the Nel and Van der Merwe two test to situations where the two distributions have the same form 
+but not normal. We obtain the asympototic distributions of adjusted Nel and Van der Merwe statistic using central limit theorem.
+and we use simulated data first to examin our theory and we apply our method in the US-2016 election data.
 \end{abstract}
+\begin{Keywords}
+Nel and Van der Merve Test, asympototic theory,central limit theorem 
+\end{Keywords}
